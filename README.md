@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Suryasnata Dash  
+<h1> 👋 Hi there, I'm Suryasnata Dash  </h1>
 
 I'm a **Developer & Tech Enthusiast** who loves building impactful solutions.  
 I enjoy turning complex problems into simple, beautiful, and intuitive solutions. 🚀  
