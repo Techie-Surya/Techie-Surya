@@ -25,7 +25,7 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 ## 📊 GitHub Stats & Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanisfr&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Techie-Surya&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Techie-Surya&layout=compact&theme=tokyonight)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Techie-Surya&theme=tokyonight&border_radius=10)  
